@@ -14,3 +14,6 @@
 <li>Customer Registertion and Login enable if required</li>
 <li>Easy to setup</li>
   </ul>
+
+<h5>Donate if you like it.</h5>
+<a href="paypal.me/dsio2403" target="_blank">DONATE NOW</a>
