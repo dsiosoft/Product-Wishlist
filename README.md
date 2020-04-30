@@ -1,7 +1,7 @@
 # Product-Wishlist
 <h2>INTRODUCTION</h2>
 
-<p>A set of Shopify files used to implement a user wishlist on a Shopify store using (S)CSS, Javascript, and Liquid. This implementation uses javascript's localStorage to maintain a user's product wishlist and does not require a user to be logged in to a customer account.
+<p>A Shopify files used to implement a user wishlist on a Shopify store using (S)CSS, Javascript, and Liquid. This implementation uses javascript's localStorage to maintain a user's product wishlist and does not require a user to be logged in to a customer account. but if you need customer registration then we can do it by some custom liquid code.
 </p>
 <h2>FEATURES</h2>
 <ul>
